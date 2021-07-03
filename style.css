@@ -72,8 +72,9 @@
        .div3{
            width: 400px;
            height: 250px;
-           margin: 20px auto 15px auto;
+           margin: 30px auto 15px auto;
            font-size: 25px;
+           line-height: 2.5cm;
            text-align: center;
        }
 
